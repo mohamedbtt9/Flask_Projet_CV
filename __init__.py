@@ -1,6 +1,6 @@
 from flask import Flask,render_template
 
-app = Flask(__name__) #creating flask app name #com
+app = Flask(__name__) #creating flask app name #com1
 
 @app.route('/')
 def home():
